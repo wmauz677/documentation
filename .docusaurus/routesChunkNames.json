@@ -1,0 +1,157 @@
+{
+  "/documentation/-d97": {
+    "component": "component---site-src-pages-index-jsc-4-f-f99",
+    "config": "config---documentation-5-e-9-cf4"
+  },
+  "/documentation/__docusaurus/debug-9a6": {
+    "component": "component---theme-debug-config-23-a-2ff"
+  },
+  "/documentation/__docusaurus/debug/config-9b2": {
+    "component": "component---theme-debug-config-23-a-2ff"
+  },
+  "/documentation/__docusaurus/debug/content-9eb": {
+    "component": "component---theme-debug-contentba-8-ce7",
+    "allContent": "allContent---documentation-docusaurus-debug-content-246-1fc"
+  },
+  "/documentation/__docusaurus/debug/globalData-4d6": {
+    "component": "component---theme-debug-global-dataede-0fa"
+  },
+  "/documentation/__docusaurus/debug/metadata-c5d": {
+    "component": "component---theme-debug-site-metadata-68-e-3d4"
+  },
+  "/documentation/__docusaurus/debug/registry-32c": {
+    "component": "component---theme-debug-registry-679-501"
+  },
+  "/documentation/__docusaurus/debug/routes-e38": {
+    "component": "component---theme-debug-routes-946-699"
+  },
+  "/documentation/blog-ff9": {
+    "component": "component---theme-blog-list-pagea-6-a-7ba",
+    "sidebar": "sidebar---documentation-blog-38-b-79b",
+    "items": [
+      {
+        "content": "content---documentation-blogaf-1-1fe"
+      },
+      {
+        "content": "content---documentation-blog-357-e80"
+      },
+      {
+        "content": "content---documentation-blog-8-e-9-18d"
+      }
+    ],
+    "metadata": "metadata---documentation-blog-14-e-a5c"
+  },
+  "/documentation/blog/hello-world-da5": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---documentation-blog-38-b-79b",
+    "content": "content---documentation-blog-hello-worldd-61-0ab"
+  },
+  "/documentation/blog/hola-807": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---documentation-blog-38-b-79b",
+    "content": "content---documentation-blog-holabdd-eb6"
+  },
+  "/documentation/blog/tags-8e6": {
+    "component": "component---theme-blog-tags-list-page-01-a-d0b",
+    "sidebar": "sidebar---documentation-blog-38-b-79b",
+    "tags": "tags---documentation-blog-tags-673-362"
+  },
+  "/documentation/blog/tags/docusaurus-9e9": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---documentation-blog-38-b-79b",
+    "items": [
+      {
+        "content": "content---documentation-blogaf-1-1fe"
+      },
+      {
+        "content": "content---documentation-blog-357-e80"
+      },
+      {
+        "content": "content---documentation-blog-8-e-9-18d"
+      }
+    ],
+    "metadata": "metadata---documentation-blog-tags-docusaurus-911-3a9"
+  },
+  "/documentation/blog/tags/facebook-da0": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---documentation-blog-38-b-79b",
+    "items": [
+      {
+        "content": "content---documentation-blogaf-1-1fe"
+      }
+    ],
+    "metadata": "metadata---documentation-blog-tags-facebookde-8-e67"
+  },
+  "/documentation/blog/tags/hello-583": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---documentation-blog-38-b-79b",
+    "items": [
+      {
+        "content": "content---documentation-blogaf-1-1fe"
+      },
+      {
+        "content": "content---documentation-blog-357-e80"
+      }
+    ],
+    "metadata": "metadata---documentation-blog-tags-hello-6-a-7-056"
+  },
+  "/documentation/blog/tags/hola-912": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---documentation-blog-38-b-79b",
+    "items": [
+      {
+        "content": "content---documentation-blog-8-e-9-18d"
+      }
+    ],
+    "metadata": "metadata---documentation-blog-tags-hola-21-a-013"
+  },
+  "/documentation/blog/welcome-507": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---documentation-blog-38-b-79b",
+    "content": "content---documentation-blog-welcome-286-ac6"
+  },
+  "/documentation/markdown-page-d54": {
+    "component": "component---theme-mdx-page-1-f-3-b90",
+    "content": "content---documentation-markdown-page-393-bce"
+  },
+  "/documentation/docs-623": {
+    "component": "component---theme-doc-page-1-be-9be",
+    "versionMetadata": "versionMetadata---documentation-docs-935-d3e"
+  },
+  "/documentation/docs/intro-f05": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-intro-0-e-3-1d3"
+  },
+  "/documentation/docs/tutorial-basics/congratulations-028": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-tutorial-basics-congratulations-822-129"
+  },
+  "/documentation/docs/tutorial-basics/create-a-blog-post-b01": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-tutorial-basics-create-a-blog-post-533-e27"
+  },
+  "/documentation/docs/tutorial-basics/create-a-document-a5b": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-tutorial-basics-create-a-document-1-e-4-fc8"
+  },
+  "/documentation/docs/tutorial-basics/create-a-page-323": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-tutorial-basics-create-a-page-5-c-8-5ac"
+  },
+  "/documentation/docs/tutorial-basics/deploy-your-site-aac": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-tutorial-basics-deploy-your-sitef-55-887"
+  },
+  "/documentation/docs/tutorial-basics/markdown-features-76b": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-tutorial-basics-markdown-features-18-c-032"
+  },
+  "/documentation/docs/tutorial-extras/manage-docs-versions-2a6": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-tutorial-extras-manage-docs-versionsdff-895"
+  },
+  "/documentation/docs/tutorial-extras/translate-your-site-6da": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-tutorial-extras-translate-your-sitee-44-8aa"
+  }
+}
