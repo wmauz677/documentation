@@ -4,14 +4,14 @@
         <title>Weston Mauz Blog</title>
         <link>https://github.com/wmauz677/blog</link>
         <description>Weston Mauz Blog</description>
-        <lastBuildDate>Fri, 14 May 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 May 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[Update 0]]></title>
-            <link>https://github.com/wmauz677/documentation/blog/2021/05/14/Post-0</link>
-            <guid>Update 0</guid>
-            <pubDate>Fri, 14 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Update 0 - Travel + Quarantine Hotel]]></title>
+            <link>https://github.com/wmauz677/documentation/blog/2021/05/21/Update-0</link>
+            <guid>Update 0 - Travel + Quarantine Hotel</guid>
+            <pubDate>Fri, 21 May 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Initial Update]]></description>
         </item>
     </channel>
