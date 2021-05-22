@@ -19,8 +19,8 @@
   "readingTime": 0.12,
   "truncated": true,
   "prevItem": {
-    "title": "Welcome",
-    "permalink": "/documentation/blog/welcome"
+    "title": "Welcome Docusaurus v2",
+    "permalink": "/documentation/blog/2019/05/30/welcome"
   },
   "nextItem": {
     "title": "Hola",

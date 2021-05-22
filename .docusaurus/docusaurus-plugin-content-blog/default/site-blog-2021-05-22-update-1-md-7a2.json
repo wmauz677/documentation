@@ -1,0 +1,24 @@
+{
+  "permalink": "/documentation/blog/2021/05/22/Update-1",
+  "source": "@site/blog/2021-05-22-Update-1.md",
+  "title": "Update 1",
+  "description": "What I did in quarantine",
+  "date": "2021-05-22T00:00:00.000Z",
+  "formattedDate": "May 22, 2021",
+  "tags": [
+    {
+      "label": "Creative",
+      "permalink": "/documentation/blog/tags/creative"
+    },
+    {
+      "label": "Quarantine",
+      "permalink": "/documentation/blog/tags/quarantine"
+    }
+  ],
+  "readingTime": 0.135,
+  "truncated": false,
+  "nextItem": {
+    "title": "Update 0 - Travel + Quarantine Hotel",
+    "permalink": "/documentation/blog/2021/05/21/Update-0"
+  }
+}

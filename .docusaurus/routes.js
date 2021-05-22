@@ -8,18 +8,23 @@ export default [
   exact: true,
 },
 {
+  path: '/documentation/about',
+  component: ComponentCreator('/documentation/about','646'),
+  exact: true,
+},
+{
+  path: '/documentation/aboutII',
+  component: ComponentCreator('/documentation/aboutII','846'),
+  exact: true,
+},
+{
   path: '/documentation/blog',
-  component: ComponentCreator('/documentation/blog','ff9'),
+  component: ComponentCreator('/documentation/blog','ca6'),
   exact: true,
 },
 {
-  path: '/documentation/blog/hello-world',
-  component: ComponentCreator('/documentation/blog/hello-world','da5'),
-  exact: true,
-},
-{
-  path: '/documentation/blog/hola',
-  component: ComponentCreator('/documentation/blog/hola','807'),
+  path: '/documentation/blog/2021/05/21/Update-0',
+  component: ComponentCreator('/documentation/blog/2021/05/21/Update-0','a95'),
   exact: true,
 },
 {
@@ -28,28 +33,18 @@ export default [
   exact: true,
 },
 {
-  path: '/documentation/blog/tags/docusaurus',
-  component: ComponentCreator('/documentation/blog/tags/docusaurus','9e9'),
+  path: '/documentation/blog/tags/introduction',
+  component: ComponentCreator('/documentation/blog/tags/introduction','94a'),
   exact: true,
 },
 {
-  path: '/documentation/blog/tags/facebook',
-  component: ComponentCreator('/documentation/blog/tags/facebook','da0'),
+  path: '/documentation/blog/tags/quarantine',
+  component: ComponentCreator('/documentation/blog/tags/quarantine','bf5'),
   exact: true,
 },
 {
-  path: '/documentation/blog/tags/hello',
-  component: ComponentCreator('/documentation/blog/tags/hello','583'),
-  exact: true,
-},
-{
-  path: '/documentation/blog/tags/hola',
-  component: ComponentCreator('/documentation/blog/tags/hola','912'),
-  exact: true,
-},
-{
-  path: '/documentation/blog/welcome',
-  component: ComponentCreator('/documentation/blog/welcome','507'),
+  path: '/documentation/blog/tags/travel',
+  component: ComponentCreator('/documentation/blog/tags/travel','52d'),
   exact: true,
 },
 {

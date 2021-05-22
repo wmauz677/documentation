@@ -6,8 +6,8 @@
           "versionName": "current",
           "versionLabel": "Next",
           "versionPath": "/documentation/docs",
-          "versionEditUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs",
-          "versionEditUrlLocalized": "https://github.com/facebook/docusaurus/edit/master/website/i18n/en/docusaurus-plugin-content-docs/current",
+          "versionEditUrl": "https://wmauz677.github.io/documentation/docs/docs",
+          "versionEditUrlLocalized": "https://wmauz677.github.io/documentation/docs/i18n/en/docusaurus-plugin-content-docs/current",
           "isLast": true,
           "routePriority": -1,
           "sidebarFilePath": "/Users/westonmauz/Websites/documentation/sidebars.js",
@@ -90,7 +90,7 @@
               "sourceDirName": ".",
               "slug": "/intro",
               "permalink": "/documentation/docs/intro",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/intro.md",
+              "editUrl": "https://wmauz677.github.io/documentation/docs/docs/intro.md",
               "version": "current",
               "sidebarPosition": 1,
               "frontMatter": {
@@ -112,7 +112,7 @@
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/congratulations",
               "permalink": "/documentation/docs/tutorial-basics/congratulations",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/tutorial-basics/congratulations.md",
+              "editUrl": "https://wmauz677.github.io/documentation/docs/docs/tutorial-basics/congratulations.md",
               "version": "current",
               "sidebarPosition": 6,
               "frontMatter": {
@@ -138,7 +138,7 @@
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/create-a-blog-post",
               "permalink": "/documentation/docs/tutorial-basics/create-a-blog-post",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/tutorial-basics/create-a-blog-post.md",
+              "editUrl": "https://wmauz677.github.io/documentation/docs/docs/tutorial-basics/create-a-blog-post.md",
               "version": "current",
               "sidebarPosition": 3,
               "frontMatter": {
@@ -164,7 +164,7 @@
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/create-a-document",
               "permalink": "/documentation/docs/tutorial-basics/create-a-document",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/tutorial-basics/create-a-document.md",
+              "editUrl": "https://wmauz677.github.io/documentation/docs/docs/tutorial-basics/create-a-document.md",
               "version": "current",
               "sidebarPosition": 2,
               "frontMatter": {
@@ -190,7 +190,7 @@
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/create-a-page",
               "permalink": "/documentation/docs/tutorial-basics/create-a-page",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/tutorial-basics/create-a-page.md",
+              "editUrl": "https://wmauz677.github.io/documentation/docs/docs/tutorial-basics/create-a-page.md",
               "version": "current",
               "sidebarPosition": 1,
               "frontMatter": {
@@ -216,7 +216,7 @@
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/deploy-your-site",
               "permalink": "/documentation/docs/tutorial-basics/deploy-your-site",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/tutorial-basics/deploy-your-site.md",
+              "editUrl": "https://wmauz677.github.io/documentation/docs/docs/tutorial-basics/deploy-your-site.md",
               "version": "current",
               "sidebarPosition": 5,
               "frontMatter": {
@@ -242,7 +242,7 @@
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/markdown-features",
               "permalink": "/documentation/docs/tutorial-basics/markdown-features",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/tutorial-basics/markdown-features.mdx",
+              "editUrl": "https://wmauz677.github.io/documentation/docs/docs/tutorial-basics/markdown-features.mdx",
               "version": "current",
               "sidebarPosition": 4,
               "frontMatter": {
@@ -268,7 +268,7 @@
               "sourceDirName": "tutorial-extras",
               "slug": "/tutorial-extras/manage-docs-versions",
               "permalink": "/documentation/docs/tutorial-extras/manage-docs-versions",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/tutorial-extras/manage-docs-versions.md",
+              "editUrl": "https://wmauz677.github.io/documentation/docs/docs/tutorial-extras/manage-docs-versions.md",
               "version": "current",
               "sidebarPosition": 1,
               "frontMatter": {
@@ -294,7 +294,7 @@
               "sourceDirName": "tutorial-extras",
               "slug": "/tutorial-extras/translate-your-site",
               "permalink": "/documentation/docs/tutorial-extras/translate-your-site",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/tutorial-extras/translate-your-site.md",
+              "editUrl": "https://wmauz677.github.io/documentation/docs/docs/tutorial-extras/translate-your-site.md",
               "version": "current",
               "sidebarPosition": 2,
               "frontMatter": {
@@ -315,94 +315,60 @@
     "default": {
       "blogPosts": [
         {
-          "id": "welcome",
+          "id": "Update 1",
           "metadata": {
-            "permalink": "/documentation/blog/welcome",
-            "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/blog/blog/2019-05-30-welcome.md",
-            "source": "@site/blog/2019-05-30-welcome.md",
-            "title": "Welcome",
-            "description": "Blog features are powered by the blog plugin. Simply add files to the blog directory. It supports tags as well!",
-            "date": "2019-05-30T00:00:00.000Z",
-            "formattedDate": "May 30, 2019",
+            "permalink": "/documentation/blog/2021/05/22/Update-1",
+            "source": "@site/blog/2021-05-22-Update-1.md",
+            "title": "Update 1",
+            "description": "What I did in quarantine",
+            "date": "2021-05-22T00:00:00.000Z",
+            "formattedDate": "May 22, 2021",
             "tags": [
               {
-                "label": "facebook",
-                "permalink": "/documentation/blog/tags/facebook"
+                "label": "Creative",
+                "permalink": "/documentation/blog/tags/creative"
               },
               {
-                "label": "hello",
-                "permalink": "/documentation/blog/tags/hello"
-              },
-              {
-                "label": "docusaurus",
-                "permalink": "/documentation/blog/tags/docusaurus"
+                "label": "Quarantine",
+                "permalink": "/documentation/blog/tags/quarantine"
               }
             ],
-            "readingTime": 0.175,
+            "readingTime": 0.135,
             "truncated": false,
             "nextItem": {
-              "title": "Hello",
-              "permalink": "/documentation/blog/hello-world"
+              "title": "Update 0 - Travel + Quarantine Hotel",
+              "permalink": "/documentation/blog/2021/05/21/Update-0"
             }
           }
         },
         {
-          "id": "hello-world",
+          "id": "Update 0 - Travel + Quarantine Hotel",
           "metadata": {
-            "permalink": "/documentation/blog/hello-world",
-            "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/blog/blog/2019-05-29-hello-world.md",
-            "source": "@site/blog/2019-05-29-hello-world.md",
-            "title": "Hello",
-            "description": "Welcome to this blog. This blog is created with Docusaurus 2 alpha.",
-            "date": "2019-05-29T00:00:00.000Z",
-            "formattedDate": "May 29, 2019",
+            "permalink": "/documentation/blog/2021/05/21/Update-0",
+            "source": "@site/blog/2021-05-21-Update-0.md",
+            "title": "Update 0 - Travel + Quarantine Hotel",
+            "description": "Initial Update",
+            "date": "2021-05-21T00:00:00.000Z",
+            "formattedDate": "May 21, 2021",
             "tags": [
               {
-                "label": "hello",
-                "permalink": "/documentation/blog/tags/hello"
+                "label": "Introduction",
+                "permalink": "/documentation/blog/tags/introduction"
               },
               {
-                "label": "docusaurus",
-                "permalink": "/documentation/blog/tags/docusaurus"
+                "label": "Quarantine",
+                "permalink": "/documentation/blog/tags/quarantine"
+              },
+              {
+                "label": "Travel",
+                "permalink": "/documentation/blog/tags/travel"
               }
             ],
-            "readingTime": 0.12,
+            "readingTime": 2.045,
             "truncated": true,
             "prevItem": {
-              "title": "Welcome",
-              "permalink": "/documentation/blog/welcome"
-            },
-            "nextItem": {
-              "title": "Hola",
-              "permalink": "/documentation/blog/hola"
-            }
-          }
-        },
-        {
-          "id": "hola",
-          "metadata": {
-            "permalink": "/documentation/blog/hola",
-            "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/blog/blog/2019-05-28-hola.md",
-            "source": "@site/blog/2019-05-28-hola.md",
-            "title": "Hola",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet",
-            "date": "2019-05-28T00:00:00.000Z",
-            "formattedDate": "May 28, 2019",
-            "tags": [
-              {
-                "label": "hola",
-                "permalink": "/documentation/blog/tags/hola"
-              },
-              {
-                "label": "docusaurus",
-                "permalink": "/documentation/blog/tags/docusaurus"
-              }
-            ],
-            "readingTime": 0.12,
-            "truncated": false,
-            "prevItem": {
-              "title": "Hello",
-              "permalink": "/documentation/blog/hello-world"
+              "title": "Update 1",
+              "permalink": "/documentation/blog/2021/05/22/Update-1"
             }
           }
         }
@@ -414,50 +380,47 @@
             "page": 1,
             "postsPerPage": 10,
             "totalPages": 1,
-            "totalCount": 3,
+            "totalCount": 2,
             "previousPage": null,
             "nextPage": null,
             "blogDescription": "Blog",
             "blogTitle": "Blog"
           },
           "items": [
-            "welcome",
-            "hello-world",
-            "hola"
+            "Update 1",
+            "Update 0 - Travel + Quarantine Hotel"
           ]
         }
       ],
       "blogTags": {
-        "facebook": {
-          "name": "facebook",
+        "creative": {
+          "name": "creative",
           "items": [
-            "welcome"
+            "Update 1"
           ],
-          "permalink": "/documentation/blog/tags/facebook"
+          "permalink": "/documentation/blog/tags/creative"
         },
-        "hello": {
-          "name": "hello",
+        "quarantine": {
+          "name": "quarantine",
           "items": [
-            "welcome",
-            "hello-world"
+            "Update 1",
+            "Update 0 - Travel + Quarantine Hotel"
           ],
-          "permalink": "/documentation/blog/tags/hello"
+          "permalink": "/documentation/blog/tags/quarantine"
         },
-        "docusaurus": {
-          "name": "docusaurus",
+        "introduction": {
+          "name": "introduction",
           "items": [
-            "welcome",
-            "hello-world",
-            "hola"
+            "Update 0 - Travel + Quarantine Hotel"
           ],
-          "permalink": "/documentation/blog/tags/docusaurus"
+          "permalink": "/documentation/blog/tags/introduction"
         },
-        "hola": {
-          "name": "hola",
+        "travel": {
+          "name": "travel",
           "items": [
-            "hola"
+            "Update 0 - Travel + Quarantine Hotel"
           ],
-          "permalink": "/documentation/blog/tags/hola"
+          "permalink": "/documentation/blog/tags/travel"
         }
       },
       "blogTagsListPath": "/documentation/blog/tags"
@@ -465,6 +428,16 @@
   },
   "docusaurus-plugin-content-pages": {
     "default": [
+      {
+        "type": "mdx",
+        "permalink": "/documentation/about",
+        "source": "@site/src/pages/about.md"
+      },
+      {
+        "type": "jsx",
+        "permalink": "/documentation/aboutII",
+        "source": "@site/src/pages/aboutII.js"
+      },
       {
         "type": "jsx",
         "permalink": "/documentation/",

@@ -1,6 +1,6 @@
 export default {
-  "title": "Project Documentation Title",
-  "tagline": "Cool Tagline Here",
+  "title": "Weston Mauz",
+  "tagline": "Technical, Creative, and Career Portfolio",
   "url": "https://github.com/wmauz677",
   "baseUrl": "/documentation/",
   "onBrokenLinks": "throw",
@@ -10,27 +10,20 @@ export default {
   "projectName": "documentation",
   "themeConfig": {
     "navbar": {
-      "title": "My Site",
+      "title": "East Meets Weast",
       "logo": {
         "alt": "My Site Logo",
         "src": "img/logo.svg"
       },
       "items": [
         {
-          "type": "doc",
-          "docId": "intro",
-          "position": "left",
-          "label": "Tutorial",
-          "activeSidebarClassName": "navbar__link--active"
-        },
-        {
           "to": "/blog",
           "label": "Blog",
           "position": "left"
         },
         {
-          "href": "https://github.com/facebook/docusaurus",
-          "label": "GitHub",
+          "href": "/about",
+          "label": "About",
           "position": "right"
         }
       ],
@@ -40,46 +33,40 @@ export default {
       "style": "dark",
       "links": [
         {
-          "title": "Docs",
+          "title": "East Meets Weast",
           "items": [
             {
-              "label": "Tutorial",
-              "to": "/docs/intro"
+              "label": "Weston Mauz",
+              "to": "https://wmauz677.github.io/Mauz-Portfolio-Web/"
+            },
+            {
+              "label": "wmmauz@gmail.com",
+              "href": "mailto:wmmauz@gmail.com"
             }
           ]
         },
         {
-          "title": "Community",
+          "title": "Attributions",
           "items": [
             {
-              "label": "Stack Overflow",
-              "href": "https://stackoverflow.com/questions/tagged/docusaurus"
+              "label": "Docusaurus",
+              "href": "https://docusaurus.io/"
             },
             {
-              "label": "Discord",
-              "href": "https://discordapp.com/invite/docusaurus"
+              "label": "Freepik",
+              "href": "https://www.freepik.com"
             },
             {
-              "label": "Twitter",
-              "href": "https://twitter.com/docusaurus"
-            }
-          ]
-        },
-        {
-          "title": "More",
-          "items": [
-            {
-              "label": "Blog",
-              "to": "/blog"
+              "label": "photo3idea_studio",
+              "href": "https://www.flaticon.com/authors/photo3idea-studio"
             },
             {
-              "label": "GitHub",
-              "href": "https://github.com/facebook/docusaurus"
+              "label": "Flaticon",
+              "href": "https://www.flaticon.com/"
             }
           ]
         }
-      ],
-      "copyright": "Copyright © 2021 My Project, Inc. Built with Docusaurus."
+      ]
     },
     "colorMode": {
       "defaultMode": "light",
@@ -107,11 +94,10 @@ export default {
       {
         "docs": {
           "sidebarPath": "/Users/westonmauz/Websites/documentation/sidebars.js",
-          "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/"
+          "editUrl": "https://wmauz677.github.io/documentation/docs"
         },
         "blog": {
-          "showReadingTime": true,
-          "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/blog/"
+          "showReadingTime": true
         },
         "theme": {
           "customCss": "/Users/westonmauz/Websites/documentation/src/css/custom.css"

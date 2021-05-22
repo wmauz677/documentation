@@ -1,0 +1,20 @@
+{
+  "permalink": "/documentation/blog/2021/05/14/Post-0",
+  "source": "@site/blog/2021-05-14-Post-0.md",
+  "title": "Update 0",
+  "description": "Initial Update",
+  "date": "2021-05-14T00:00:00.000Z",
+  "formattedDate": "May 14, 2021",
+  "tags": [
+    {
+      "label": "Introduction",
+      "permalink": "/documentation/blog/tags/introduction"
+    },
+    {
+      "label": "Quarantine",
+      "permalink": "/documentation/blog/tags/quarantine"
+    }
+  ],
+  "readingTime": 1.975,
+  "truncated": true
+}

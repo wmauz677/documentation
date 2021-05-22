@@ -1,27 +1,27 @@
 {
-  "permalink": "/documentation/blog/welcome",
+  "permalink": "/documentation/blog/2019/05/30/welcome",
   "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/blog/blog/2019-05-30-welcome.md",
   "source": "@site/blog/2019-05-30-welcome.md",
-  "title": "Welcome",
-  "description": "Blog features are powered by the blog plugin. Simply add files to the blog directory. It supports tags as well!",
+  "title": "Welcome Docusaurus v2",
+  "description": "This is my first post on Docusaurus 2.",
   "date": "2019-05-30T00:00:00.000Z",
   "formattedDate": "May 30, 2019",
   "tags": [
-    {
-      "label": "facebook",
-      "permalink": "/documentation/blog/tags/facebook"
-    },
     {
       "label": "hello",
       "permalink": "/documentation/blog/tags/hello"
     },
     {
-      "label": "docusaurus",
-      "permalink": "/documentation/blog/tags/docusaurus"
+      "label": "docusaurus-v2",
+      "permalink": "/documentation/blog/tags/docusaurus-v-2"
     }
   ],
-  "readingTime": 0.175,
-  "truncated": false,
+  "readingTime": 0.14,
+  "truncated": true,
+  "prevItem": {
+    "title": "Update 0",
+    "permalink": "/documentation/blog/2021/05/14/Post-0"
+  },
   "nextItem": {
     "title": "Hello",
     "permalink": "/documentation/blog/hello-world"

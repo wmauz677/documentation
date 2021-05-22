@@ -4,42 +4,45 @@ import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
+    target: '',
+    link: 'blog',
+    title: 'Blog',
+    Svg: require('../../static/img/notebook.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        My personal blog: East Meets Weast
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
+    target: '#',
+    link: 'https://wmauz677.github.io/Mauz-Portfolio-Web/',
+    title: 'Portfolio',
+    Svg: require('../../static/img/folder.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        A more comprehensive look at my career + skills
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
+    target: '#',
+    link: 'https://github.com/wmauz677',
+    title: 'Projects',
+    Svg: require('../../static/img/github.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        My programming projects live here
       </>
     ),
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({Svg, link, title, description, target}) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-        <Svg className={styles.featureSvg} alt={title} />
+        <a href = {link} target = {target}><Svg className={styles.featureSvg} alt={title} /></a>
       </div>
       <div className="text--center padding-horiz--md">
         <h3>{title}</h3>

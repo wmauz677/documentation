@@ -1,7 +1,7 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'Project Documentation Title',
-  tagline: 'Cool Tagline Here',
+  title: 'Weston Mauz',
+  tagline: 'Technical, Creative, and Career Portfolio',
   url: 'https://github.com/wmauz677',
   baseUrl: '/documentation/',
   onBrokenLinks: 'throw',
@@ -11,22 +11,16 @@ module.exports = {
   projectName: 'documentation', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'East Meets Weast',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
       },
       items: [
-        {
-          type: 'doc',
-          docId: 'intro',
-          position: 'left',
-          label: 'Tutorial',
-        },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
-          label: 'GitHub',
+          href: '/about',
+          label: 'About',
           position: 'right',
         },
       ],
@@ -35,46 +29,41 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'East Meets Weast',
           items: [
             {
-              label: 'Tutorial',
-              to: '/docs/intro',
+              label: 'Weston Mauz',
+              to: 'https://wmauz677.github.io/Mauz-Portfolio-Web/',
+            },
+            {
+              label: 'wmmauz@gmail.com',
+              href: 'mailto:wmmauz@gmail.com',
             },
           ],
         },
         {
-          title: 'Community',
-          items: [
-            {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
-            },
-          ],
-        },
-        {
-          title: 'More',
-          items: [
-            {
-              label: 'Blog',
-              to: '/blog',
-            },
-            {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
-            },
-          ],
+          title: 'Attributions',
+            items: [
+              {
+                label: 'Docusaurus',
+                href: 'https://docusaurus.io/',
+              },
+              {
+                label: 'Freepik',
+                href: 'https://www.freepik.com',
+              },
+              {
+                label: 'photo3idea_studio',
+                href: 'https://www.flaticon.com/authors/photo3idea-studio',
+              },
+              {
+                label: 'Flaticon',
+                href: 'https://www.flaticon.com/',
+              },
+            ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      // copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
     },
   },
   presets: [
@@ -85,13 +74,11 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
+            'https://wmauz677.github.io/documentation/docs',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
-          editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/blog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
