@@ -4,9 +4,16 @@
         <title>Weston Mauz Blog</title>
         <link>https://github.com/wmauz677/blog</link>
         <description>Weston Mauz Blog</description>
-        <lastBuildDate>Fri, 21 May 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Jun 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Update 1 - Peeking Through the Cracks]]></title>
+            <link>https://github.com/wmauz677/documentation/blog/2021/06/04/Update-1</link>
+            <guid>Update 1 - Peeking Through the Cracks</guid>
+            <pubDate>Fri, 04 Jun 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Quarantine]]></description>
+        </item>
         <item>
             <title><![CDATA[Update 0 - Travel + Quarantine Hotel]]></title>
             <link>https://github.com/wmauz677/documentation/blog/2021/05/21/Update-0</link>

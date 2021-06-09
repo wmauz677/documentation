@@ -1,0 +1,1 @@
+(self.webpackChunkdocumentation=self.webpackChunkdocumentation||[]).push([[124],{2658:function(t){"use strict";t.exports=JSON.parse('{"allTagsPath":"/documentation/blog/tags","slug":"mental-health","name":"mental health","count":1,"permalink":"/documentation/blog/tags/mental-health"}')}}]);

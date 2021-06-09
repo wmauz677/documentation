@@ -1,0 +1,1 @@
+(self.webpackChunkdocumentation=self.webpackChunkdocumentation||[]).push([[567],{7001:function(n){"use strict";n.exports=JSON.parse('{"allTagsPath":"/documentation/blog/tags","slug":"quarantine","name":"quarantine","count":2,"permalink":"/documentation/blog/tags/quarantine"}')}}]);

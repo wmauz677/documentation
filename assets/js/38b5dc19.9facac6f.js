@@ -1,0 +1,1 @@
+(self.webpackChunkdocumentation=self.webpackChunkdocumentation||[]).push([[76],{6353:function(e){"use strict";e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Update 1 - Peeking Through the Cracks","permalink":"/documentation/blog/2021/06/04/Update-1"},{"title":"Update 0 - Travel + Quarantine Hotel","permalink":"/documentation/blog/2021/05/21/Update-0"}]}')}}]);
